@@ -4,11 +4,13 @@
 
 我会在这个仓库中上传自己的解答。代码没有经过详细推敲，也没有详细注释。大概率不是最优解法，也不能保证一定是正确的，只保证能够通过 PAT 的所有测试点。有空的话会优化一下。
 
-目前我的 C++ 知识都学自[richenyunqi](https://github.com/richenyunqi/CCF-CSP-and-PAT-solution)的《算法详解》，非常感谢他。
+目前我的 C++ 知识都学自 [richenyunqi](https://github.com/richenyunqi/CCF-CSP-and-PAT-solution) 的《算法详解》一书，非常感谢他。
 
 ![](./images/cover.jpg)
 
-代码默认使用如下模板：
+## 注
+
+1. 代码默认使用如下模板：
 
 ```cpp
 #include <bits/stdc++.h>
@@ -22,3 +24,7 @@ int main(){
     return 0;
 }
 ```
+
+
+
+2. 为了更好的阅读体验，可以安装[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)，对`github`上`markdown`文本的`latex`语法进行渲染。

@@ -50,7 +50,7 @@ All the numbers in a line must be separated by a space, and there must be no ext
 ⚠️结尾无空行
 ```
 
-![](./images/overtime.png)
+<img src="../images/overtime.png" style="zoom:30%;" />
 
 
 
@@ -181,7 +181,7 @@ All the numbers in a line must be separated by 1 space, and there must be no ext
 ⚠️结尾无空行
 ```
 
-![](./images/graph.jpg)
+![](../images/graph.jpg)
 
 ### Sample Output 1:
 
