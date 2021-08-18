@@ -28,7 +28,6 @@ For each case, print in a line `Yes` if $N$ is a sexy prime, then print in the n
 
 ```in
 47
-⚠️结尾无空行
 ```
 
 ### Sample Output 1:
@@ -36,14 +35,12 @@ For each case, print in a line `Yes` if $N$ is a sexy prime, then print in the n
 ```out
 Yes
 41
-⚠️结尾无空行
 ```
 
 ### Sample Input 2:
 
 ```in
 21
-⚠️结尾无空行
 ```
 
 ### Sample Output 2:
@@ -51,7 +48,6 @@ Yes
 ```out
 No
 23
-⚠️结尾无空行
 ```
 
 
@@ -88,7 +84,6 @@ First print in a line the number of alumni among all the people who come to the 
 610481197806202213
 440684198612150417
 370205198709275042
-⚠️结尾无空行
 ```
 
 ### Sample Output:
@@ -96,7 +91,6 @@ First print in a line the number of alumni among all the people who come to the 
 ```out
 3
 150702193604190912
-⚠️结尾无空行
 ```
 
 
@@ -160,7 +154,6 @@ If no one is detected, output `None` instead.
 6 11 2
 6 12 1
 6 13 1
-⚠️结尾无空行
 ```
 
 ### Sample Output 1:
@@ -168,7 +161,6 @@ If no one is detected, output `None` instead.
 ```out
 3 5
 6
-⚠️结尾无空行
 ```
 
 **Note:** In sample 1, although `1` had 9 records, but there were 7 distinct receivers, among which `5` and `15` both had conversations lasted more than 5 minutes in total. Hence `1` had made 5 short phone calls and didn't exceed the threshold 5, and therefore is not a suspect.
@@ -185,14 +177,12 @@ If no one is detected, output `None` instead.
 1 7 1
 2 1 1
 3 1 1
-⚠️结尾无空行
 ```
 
 ### Sample Output 2:
 
 ```out
 None
-⚠️结尾无空行
 ```
 
 
@@ -242,7 +232,6 @@ For each statement, print in a line `Yes` if it is correct, or `No` if not.
 28 is the right child of 2
 7 and 11 are on the same level
 It is a full tree
-⚠️结尾无空行
 ```
 
 ### Sample Output:
@@ -255,6 +244,5 @@ No
 Yes
 Yes
 Yes
-⚠️结尾无空行
 ```
 

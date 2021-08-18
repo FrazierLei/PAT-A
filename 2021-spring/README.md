@@ -26,28 +26,24 @@ All the numbers in a line must be separated by a space, and there must be no ext
 
 ```in
 5 1000
-⚠️结尾无空行
 ```
 
 ### Sample Output 1:
 
 ```out
 23 263 503 743 983
-⚠️结尾无空行
 ```
 
 ### Sample Input 2:
 
 ```in
 10 200
-⚠️结尾无空行
 ```
 
 ### Sample Output 2:
 
 ```out
 199
-⚠️结尾无空行
 ```
 
 <img src="../images/overtime.png" style="zoom:30%;" />
@@ -85,14 +81,12 @@ The output is supposed to give the total number of requests approved in your pla
 13:00:00 17:11:22
 06:30:50 11:42:01
 17:30:00 23:50:00
-⚠️结尾无空行
 ```
 
 ### Sample Output:
 
 ```out
 5
-⚠️结尾无空行
 ```
 
 ### Hint:
@@ -132,14 +126,12 @@ For each statement, print `1` if it is true, or `0` if not. All the answers must
 35 is the left child of 26
 35 is the right child of 46
 -1 is the root
-⚠️结尾无空行
 ```
 
 ### Sample Output:
 
 ```out
 011010
-⚠️结尾无空行
 ```
 
 
@@ -178,7 +170,6 @@ All the numbers in a line must be separated by 1 space, and there must be no ext
 2 3 4
 3 4 2
 6 7 9
-⚠️结尾无空行
 ```
 
 ![](../images/graph.jpg)
@@ -188,7 +179,6 @@ All the numbers in a line must be separated by 1 space, and there must be no ext
 ```out
 0 2 1 7 6 3 4 5
 33
-⚠️结尾无空行
 ```
 
 ### Sample Input 2:
@@ -203,7 +193,6 @@ All the numbers in a line must be separated by 1 space, and there must be no ext
 2 3 4
 3 4 2
 6 5 1
-⚠️结尾无空行
 ```
 
 ### Sample Output 2:
@@ -211,5 +200,4 @@ All the numbers in a line must be separated by 1 space, and there must be no ext
 ```out
 0 2 1 7 3 4
 5 6
-⚠️结尾无空行
 ```
